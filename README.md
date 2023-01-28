@@ -4,7 +4,7 @@ CSI Data Set use for Human Activities Recognition and Fall Detection
 
 数据集包含五个受测者在两个不同环境中采集的十一种动作，每个受测者在每个环境中所做的每个动作采集20个数据样本，数据集共有2200个样本。
 
-This dataset contains 11 kinds of activities act by 5 volunteers in two different environment , the data of each activity act by one volunteer in each environment has 20 samples. The number of samples in this dataset is 2100.
+This dataset contains 11 kinds of activities act by 5 volunteers in two different environment , the data of each activity act by one volunteer in each environment has 20 samples. The number of samples in this dataset is 2200.
 
 
 
