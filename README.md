@@ -73,3 +73,10 @@ Sample:  XXX_yy i.dat  represent the i th	yy activity sample of the volunteer XX
 Sample:  XXX_yy i.mat  represent the i th	yy activity sample of the volunteer XXX
 
 **ps：处理用到的代码都在Script中，切割平躺、坐立的是OwnData_cut.m ，提取CSI并将数据切割为10秒长的是OwnData_extract.m**
+
+
+####If your paper relate to my works, please cite our papers as follows.
+Zhang L, Jia Y, Qiu T. Lightweight Fall Detection Based on WiFi Signal with Few-shot Learning[C]//ICC 2023-IEEE International Conference on Communications. IEEE, 2022.
+
+####如果您的论文与我的作品相关，请引用我们下面的论文：
+Lightweight Fall Detection Based on WiFi Signal with Few-shot Learning
